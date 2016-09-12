@@ -1,0 +1,10 @@
+body {
+    background-color: #222222;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+.biojs_msa_labels {
+    color: white !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
